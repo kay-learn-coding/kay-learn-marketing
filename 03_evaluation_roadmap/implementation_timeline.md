@@ -2,6 +2,21 @@
 
 This roadmap outlines the structured transition of Mother London into a Strategic Conscious Creative Partner over a 12-month timeline, systematically scaling technical capabilities while safeguarding core agency independence.
 
+Phase 1: Operational Hardening (Months 1–4)
+├── Establish Technical Nexus Partnership & deploy internal GEO Lab infrastructure
+├── Integrate Synthetic Consumers into the early-stage creative research stack
+└── Audit internal workflows to mitigate collaboration fatigue at the concrete table
+
+Phase 2: Strategic Commercialization (Months 5–8)
+├── Launch upfront Strategic Consulting billing layers for corporate accounts
+├── Deploy the Transparent Social Proof and DMCC/CMA compliance frameworks
+└── Transition early-adopter clients to Share of Model (SOM) performance tracking
+
+Phase 3: Regional & Scale Expansion (Months 9–12)
+├── Scale operational models to regional hubs (e.g., Manchester, Leeds)
+├── Automate low-risk administrative workflows to maximize human creative velocity
+└── Fully benchmark Human-Centric ROI metrics across the entire client portfolio
+
 ---
 
 ## Detailed Phase Breakdown
